@@ -1,0 +1,38 @@
+export const initialApplications = [
+  {
+    id: 1,
+    jobId: 3,
+    jobTitle: "UI/UX Designer",
+    company: "PixelCraft",
+    appliedDate: "2026-08-10",
+    status: "Interview",
+    resume: "Archana_Resume.pdf",
+    interview: {
+      date: "2026-08-20",
+      time: "11:00 AM",
+      type: "Video Call",
+      link: "https://meet.google.com/abc-defg-hij",
+      message: "Please join 5 minutes early. We'll be discussing your portfolio and experience.",
+    },
+  },
+  {
+    id: 2,
+    jobId: 1,
+    jobTitle: "Senior Frontend Developer",
+    company: "TechNova",
+    appliedDate: "2026-08-12",
+    status: "Under Review",
+    resume: "Archana_Resume.pdf",
+    interview: null,
+  },
+  {
+    id: 3,
+    jobId: 4,
+    jobTitle: "Growth Marketing Manager",
+    company: "Nexora",
+    appliedDate: "2026-08-08",
+    status: "Shortlisted",
+    resume: "Archana_Resume.pdf",
+    interview: null,
+  },
+];

@@ -1,0 +1,58 @@
+export const categories = [
+  {
+    id: 1,
+    name: "Software Development",
+    icon: "bi-code-slash",
+    jobCount: 312,
+    slug: "Software Development",
+  },
+  {
+    id: 2,
+    name: "Data Science",
+    icon: "bi-graph-up-arrow",
+    jobCount: 184,
+    slug: "Data Science",
+  },
+  {
+    id: 3,
+    name: "UI/UX Design",
+    icon: "bi-palette",
+    jobCount: 97,
+    slug: "UI/UX Design",
+  },
+  {
+    id: 4,
+    name: "Marketing",
+    icon: "bi-megaphone",
+    jobCount: 143,
+    slug: "Marketing",
+  },
+  {
+    id: 5,
+    name: "Finance",
+    icon: "bi-currency-rupee",
+    jobCount: 89,
+    slug: "Finance",
+  },
+  {
+    id: 6,
+    name: "Human Resources",
+    icon: "bi-people",
+    jobCount: 76,
+    slug: "Human Resources",
+  },
+  {
+    id: 7,
+    name: "Sales",
+    icon: "bi-bar-chart-line",
+    jobCount: 122,
+    slug: "Sales",
+  },
+  {
+    id: 8,
+    name: "Cloud & DevOps",
+    icon: "bi-cloud",
+    jobCount: 108,
+    slug: "Cloud & DevOps",
+  },
+];
